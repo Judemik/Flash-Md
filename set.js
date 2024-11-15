@@ -15,7 +15,7 @@ module.exports = {
     OWNER_NAME: process.env.OWNER_NAME || "×͜͡𒋲⍣⃝𝐃𝚵𝚭𝚯𝐃†𝐒𝚻𝚰𝐅𝐋𝚵𝚪—͟͟͞͞𖣘",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "50931972417",
     AUTO_READ_STATUS: process.env.AUTO_VIEW_STATUS || "on",
-    AUTOREAD_MESSAGES: process.env.AUTO_READ_MESSAGES || "on",
+    AUTOREAD_MESSAGES: process.env.AUTO_READ_MESSAGES || "off",
     CHATBOT: process.env.CHAT_BOT || "off",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_SAVE_STATUS || 'off',
     A_REACT: process.env.AUTO_REACTION || 'on',
